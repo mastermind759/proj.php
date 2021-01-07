@@ -1,0 +1,28 @@
+.billing_addr{
+
+}
+.form{
+	position: absolute;
+    top: 19%;
+    left: 18%;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.Order{
+	position: absolute;
+    top: 22%;
+    left: 62%;
+    font-size: 25px;
+    line-height: 2;
+}
+
+.confirm{
+position: absolute;
+    top: 86%;
+    left: 80%;
+}
+}
+input[type="submit"]{
+	height: 10px;
+
+}

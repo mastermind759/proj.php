@@ -1,0 +1,42 @@
+.nav{
+	background-color: #6F9EAF;
+	position: absolute;
+    width: 93%;
+    margin-left: 4%;
+
+}
+.list{
+	    margin-right: 8%;
+	    background-color: #333;
+}
+li{
+	float: right;
+	padding: 10px;
+	list-style-type: none;
+	color: white;
+}
+a{
+	color: black;
+
+}
+ a:hover {
+ 	
+    color: black;
+    letter-spacing: 2px;
+    size: 10px
+    
+  }
+ a:active {
+    background-color: #4CAF50;
+    color: white;
+ }
+.logo{
+	float: left;
+    text-align: center;
+   	letter-spacing: 5px;
+    position: absolute;
+    
+    font-size: xx-large;
+    margin: 10px;
+
+}

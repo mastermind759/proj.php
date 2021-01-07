@@ -1,0 +1,17 @@
+.foot{
+	background-color: #7C9473;
+    width: 93%;
+    margin-left: 4%;
+    text-align: center;
+    position: absolute;
+    margin-top: 50%;
+    height: 50px;
+    margin-bottom: 5%;
+}
+    
+
+.ft-text{
+	max-width: auto;
+	max-height: auto;
+	padding: 10px;
+}
